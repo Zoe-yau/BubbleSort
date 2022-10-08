@@ -40,7 +40,8 @@
         "-DDEBUG",
         "-module-cache-path",
         "/home/zoe-yau/Projects/BubbleSort/.build/x86_64-unknown-linux-gnu/debug/ModuleCache",
-        "-parseable-output"
+        "-parseable-output",
+        "-color-diagnostics"
       ],
       "outputs" : [
         {
